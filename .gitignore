@@ -1,0 +1,7 @@
+# On ignore tous les fichiers de log
+*.log
+
+
+
+# On ignore tous les fichiers compilés
+bin/
