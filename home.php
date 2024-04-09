@@ -30,5 +30,7 @@ include 'extra/functions.php';
             <img src="#">
         </a>
     </div>
+
+    <footer>@thomas aldaitz</footer>
 </body>
 </html>
