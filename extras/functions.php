@@ -12,3 +12,7 @@ function deleteAllBugsFromProject() {
 function addBannerForSpecialOffer() {
     return "url banner";
 }
+
+function controlMenu() {
+    echo "Vous le droit d'accéder au menu";
+}

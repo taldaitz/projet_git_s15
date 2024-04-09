@@ -13,9 +13,17 @@ include 'extra/functions.php';
     <title>Document</title>
 </head>
 <body>
-    <header class="special_promo">
+    <header class="special_promo Menu Burger">
         <h1>Super projet</h1>
     </header>
+
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About us</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
 
     <div>
         <a href="#">
