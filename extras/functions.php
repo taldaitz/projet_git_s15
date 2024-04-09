@@ -19,4 +19,9 @@ function controlMenu() {
 
 function logout() {
     echo "vous etes déconnecté";
+
+}
+
+function login() {
+    echo "Vous etes connecté";
 }
