@@ -31,6 +31,6 @@ include 'extra/functions.php';
         </a>
     </div>
 
-    <footer>@thomas aldaitz</footer>
+    <footer>@taldaitz</footer>
 </body>
 </html>
