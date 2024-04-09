@@ -16,3 +16,7 @@ function addBannerForSpecialOffer() {
 function controlMenu() {
     echo "Vous le droit d'accéder au menu";
 }
+
+function logout() {
+    echo "vous etes déconnecté";
+}
