@@ -8,3 +8,7 @@ function sum(int $a, int $b)
 function deleteAllBugsFromProject() {
     return true;
 }
+
+function controlMenu() {
+    echo "Vous le droit d'accéder au menu";
+}

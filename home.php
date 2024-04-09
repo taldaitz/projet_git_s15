@@ -13,8 +13,16 @@ include 'extra/functions.php';
     <title>Document</title>
 </head>
 <body>
-    <header>
+    <header class="Menu Burger">
         <h1>Super projet</h1>
     </header>
+
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About us</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
 </body>
 </html>
