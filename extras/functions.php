@@ -8,3 +8,7 @@ function sum(int $a, int $b)
 function deleteAllBugsFromProject() {
     return true;
 }
+
+function addBannerForSpecialOffer() {
+    return "url banner";
+}
